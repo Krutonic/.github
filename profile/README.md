@@ -1,7 +1,7 @@
 # KRUTONIC
 
 <p align="center">
-  <img src="./assets/krutonic-logo.png" alt="KRUTONIC — Technology in Motion" width="500"/>
+  <img src="../assets/krutonic-logo.png" alt="KRUTONIC — Technology in Motion" width="500"/>
 </p>
 
 <p align="center">
