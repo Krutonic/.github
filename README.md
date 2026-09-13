@@ -38,31 +38,31 @@ From concept to deployment, we focus on creating technology that is practical, p
 
 Modern, responsive, and high-performance websites and web applications.
 
-* Business websites
-* Custom web applications
-* Landing pages
-* Full-stack applications
-* Responsive UI development
+- Business websites
+- Custom web applications
+- Landing pages
+- Full-stack applications
+- Responsive UI development
 
 ### Mobile App Development
 
 Cross-platform mobile applications designed for real-world use.
 
-* iOS applications
-* Android applications
-* Cross-platform mobile apps
-* React Native applications
-* Expo-based development
+- iOS applications
+- Android applications
+- Cross-platform mobile apps
+- React Native applications
+- Expo-based development
 
 ### Backend & API Development
 
 Reliable backend systems and APIs to power modern digital products.
 
-* REST APIs
-* Authentication systems
-* Database integration
-* Server-side development
-* Cloud-based backend solutions
+- REST APIs
+- Authentication systems
+- Database integration
+- Server-side development
+- Cloud-based backend solutions
 
 ### UI/UX & Digital Experiences
 
@@ -148,11 +148,11 @@ We are building digital solutions across web, mobile, and backend technologies.
 
 Our work includes:
 
-* Custom websites and web applications
-* Mobile applications
-* Backend and API systems
-* Business automation tools
-* Custom digital products
+- Custom websites and web applications
+- Mobile applications
+- Backend and API systems
+- Business automation tools
+- Custom digital products
 
 More projects and case studies will be shared here as our portfolio grows.
 
@@ -180,4 +180,3 @@ We would love to hear from you.
 <p align="center">
   <sub>© KRUTONIC. All rights reserved.</sub>
 </p>
-# .github
